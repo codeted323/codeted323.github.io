@@ -2,7 +2,7 @@
 
 <details>
   
-  <summary>Click me</summary>
+  <summary>Markdowned Section or nah?</summary>
   
   ### Heading
   1. Foo
